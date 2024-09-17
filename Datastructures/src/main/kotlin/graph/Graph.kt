@@ -1,3 +1,5 @@
+package graph
+
 import java.lang.IllegalArgumentException
 
 class Graph {

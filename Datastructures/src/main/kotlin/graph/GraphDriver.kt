@@ -1,3 +1,5 @@
+package graph
+
 fun main(args: Array<String>) {
     val graphDriver = Graph()
     val flavour = "Flavour"
